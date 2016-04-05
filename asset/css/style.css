@@ -106,9 +106,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-primary {
     background: #369F65;
-    border-color: #369F65;
     font-size: 16px;
-    padding: 8px 15px;
+    padding: 15px 0px;
+    border-color: #fff;
+    color: #fff;
+    width: 130px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
@@ -118,7 +120,9 @@ h1, h2, h3, h4, h5, h6 {
 .btn-primary:hover {
     background: transparent;
     border-color: #369F65;
-    color: #369F65;
+    background: #354660;
+    border-color: #fff;
+
 }
 
 .btn-cancel {
@@ -197,6 +201,12 @@ h1, h2, h3, h4, h5, h6 {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     -o-border-radius: 0;
+}
+
+@media (max-width: 768px) {
+    .navbar-header {
+        padding-left: 15px;
+    }
 }
 
 .navbar-header {
@@ -373,6 +383,7 @@ img.navbar-brand {
 .banner {
     text-align: center;
     color: #fff;
+    background-color: black;
     background: url(../images/research.jpg) no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -396,9 +407,9 @@ img.navbar-brand {
 .banner .intro-text h1 {    
     font-size: 50px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 60px;
     letter-spacing: 5px;
-    margin-bottom: 55px;
+    margin-bottom: 45px;
     -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 2s; /* Firefox < 16 */
     -ms-animation: fadein 2s; /* Internet Explorer */
@@ -417,30 +428,14 @@ img.navbar-brand {
     font-weight: 300;
     line-height: 35px;
     letter-spacing: 3px;
+    width: 80%;
+    margin: auto;
     margin-bottom: 55px;
-    -webkit-animation: bounceInLeft;
-    -moz-animation: fadeInLeft;
-    -o-animation: fadeInLeft;
-    animation: bounceLeft;
-    -webkit-animation-duration: 2s;
-    -moz-animation-duration: 2s;
-    -o-animation-duration: 2s;
-    animation-duration: 2s;
-}
-
-.banner .intro-text .btn-primary {
-    padding: 15px 0px;
-    font-size: 16px;
-    border-color: #fff;
-    color: #fff;
-    border-radius: 0;
-    width: 130px;
-}
-
-.banner .btn-primary:hover {
-	background: #fff;
-	border-color: #fff;
-    color: #111;
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 2s; /* Firefox < 16 */
+    -ms-animation: fadein 2s; /* Internet Explorer */
+    -o-animation: fadein 2s; /* Opera < 12.1 */
+    animation: fadein 2s;
 }
 
 
@@ -502,6 +497,11 @@ iframe {
     margin-bottom: 20px;
 }
 
+.about-section .btn-primary {
+    width: auto;
+    padding: 10px 15px;
+}
+
 
 /**** Start Modal Section ****/
 
@@ -560,7 +560,6 @@ iframe {
 /* Start Call To Action
 /*---------------------------------------------------------------*/
 
-
 .call-to-action {
     background: url(../images/parallax/apply.jpg);
     background-attachment: fixed;
@@ -571,22 +570,21 @@ iframe {
     padding: 100px 0;
 }
 
+@media (max-width: 768px) {
+    .call-to-action {
+        background-attachment: scroll;
+    }
+}
+
 .call-to-action p {
     color: #fff;
     font-weight: 300;
     font-size: 30px;
     line-height: 40px;
     letter-spacing: 3px;
+    padding-bottom: 20px;
 }
 
-.call-to-action .btn-primary {
-    padding: 20px;
-    font-size: 16px;
-}
-
-.call-to-action .btn-primary:hover {
-    background: transparent;
-}
 
 
 /* ----------------------------------*/
