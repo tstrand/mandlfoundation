@@ -2,7 +2,6 @@
 title: THE INES MANDL RESEARCH FOUNDATION
 date: 2016-08-17 21:29:00 -04:00
 permalink: "/test"
-layout: default
 header: THE INES MANDL RESEARCH FOUNDATION
 subheader: Defining the future of connective<br> tissue disease research
 title1: Exploring the Pathways
@@ -40,7 +39,32 @@ body1: The Board of the Ines Mandl Research Foundation is very sad to announce t
   on this website.  For further information in the meantime, please contact Steve
   Harnik (Stephen@Harnik.com).
 title2: About the Foundation
-body2: 
+body2: 'The Ines Mandl Research Foundation (IMRF) is the legacy of Dr. Ines Mandl
+  whose lifelong mission was to find a cure for Connective Tissue Diseases. Towards
+  the end of her storied career as one of the world’s leading biochemists, Dr. Mandl
+  endowed the Foundation for this purpose.  The Foundation, which is a duly qualified
+  501 (c)(3) private foundation, promotes and supports research in connective tissue
+  diseases, including emphysema and genetic diseases, especially those related to
+  elastin and elastase concentrating in the causes as opposed to the cure or treatment
+  of the disease.  Research support may also include the fields of immunology and
+  bio-chemistry. The Applicant’s Founder and President, Dr. Ines Mandl, has heretofore
+  made grants in these fields of endeavor annually to such preeminent educational
+  institutions as the American Friends of the Hebrew University, Tandon School of
+  Engineering (previously, NYU Polytechnic) and Columbia University.  Following Dr.
+  Mand''s’ belief that “...biochemistry is the scientific background that helps to
+  produce all medicines,” the Foundation has a sufficiently broad charter to support
+  all research projects that conceivably may find a methodology and cure for the treatment
+  of Connective Tissue Disease.</p><p>On August 8, 2016 the Board granted the application
+  of the The Phyllis and Mark Leppert Foundation for Fertility Research, also known
+  as the Campion Fund, a public charity, to support public awareness and to educate
+  the public, particularly women, about uterine fibroids.  The Applicant is organizing
+  a meeting in Durham, NC entitled: <span style="font-style: italic">Uterine Fibroids:  A
+  Case for Women''s Health: a meeting for the general public to raise awareness of
+  uterine fibroids, a connective tissue disease affecting 70-80% of childbearing women.</span>
+  For more information about the meeting <a href="asset/uterine_fibroids.pdf" target="_blank">click
+  here</a>. The IMRF is co-sponsoring the meeting.</p><p>Please see the “Apply” tab
+  at the top of this webpage for information regarding fellowship/grant applications.'
+layout: default
 ---
 
 <!-- Start Header Section -->
