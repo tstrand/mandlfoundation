@@ -14,7 +14,7 @@ layout: page
         <div class="row">
             <div class="col-md-9">
                 <div class="about-text">
-                    <p>{{ body1 }}</p>
+                    {{ body1 }}
                     <!-- <p>We look for qualified applications who are very smart and very qualified when we look at applicants.</p> -->
                 </div>
                 <!-- <div class="download-btn">
