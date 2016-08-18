@@ -1,7 +1,9 @@
 ---
+layout: default
 title: THE INES MANDL RESEARCH FOUNDATION
 date: 2016-08-17 21:29:00 -04:00
-permalink: "/"
+permalink: "/test"
+header: THE INES MANDL RESEARCH FOUNDATION
 subheader: Defining the future of connective<br> tissue disease research
 title1: Exploring the Pathways
 body1: The Board of the Ines Mandl Research Foundation is very sad to announce that
@@ -37,5 +39,159 @@ body1: The Board of the Ines Mandl Research Foundation is very sad to announce t
   the Memorial at the end of September at Columbia University.  Details will be posted
   on this website.  For further information in the meantime, please contact Steve
   Harnik (Stephen@Harnik.com).
+title2: About the Foundation
+body2: 
 ---
+
+<!-- Start Header Section -->
+<div class="banner">
+    <div class="overlay">
+        <div class="container">
+            <div class="intro-text">
+                <h1> {{ page.header }}</h1>
+                <p>{{ page.subheader }}</p>
+                <a href="apply" class="page-scroll btn btn-primary">APPLY NOW</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Header Section -->
+
+
+<!-- Start About Us Section -->
+<section id="about-section" class="about-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading-2">
+                    <h3 class="about-section-title">
+                        <span>{{ page.title1 }}</span>
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="about-text">
+                    <p>{{ page.body1 }}</p>
+                </div>
+            </div>
+        </div>
+        <br/>
+        <br/>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading-2">
+                    <h3 class="about-section-title">
+                        <span>{{ page.title2 }}</span>
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-7">
+                <div class="about-text">
+                    <p>{{ page.body2 }}</p>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="about-img">
+                    <img src="/images/ines.jpg" class="img-responsive" alt="About images">
+                </div>
+            </div> 
+        </div>
+    </div>
+</section>
+    
+    
+<!-- Start Call to Action Section -->
+<section class="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 wow zoomIn" data-wow-duration="2s" data-wow-delay="300ms">
+                <p>Apply today for funding for your<br>connective tissue disease research!</p>
+                <a href="apply" class="page-scroll btn btn-primary">Apply Now</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Call to Action Section -->
+    
+    
+    
+    
+<!-- Start Team Member Section -->
+<section id="team-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title text-center wow fadeInDown" data-wow-duration="2s" data-wow-delay="50ms">
+                    <h2>Our Board</h2>
+                </div>                        
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="300ms">
+                <div class="team-member">
+                    <img src="/images/team/ines.jpg" class="img-responsive" alt="">
+                    <div class="team-details">
+                        <h4>Ines Mandl</h4>
+                        <p>President</p>
+                    </div>
+                </div>
+            </div><!-- /.col-md-3 -->
+            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="600ms">
+                <div class="team-member">
+                    <img src="/images/team/stephen.jpg" class="img-responsive" alt="">
+                    <div class="team-details">
+                        <h4>Stephen Harnik</h4>
+                        <p>Vice President</p>
+                    </div>
+                </div>
+            </div><!-- /.col-md-3 -->
+            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="900ms">
+                <div class="team-member">
+                    <img src="/images/team/nick.jpg" class="img-responsive" alt="">
+                    <div class="team-details">
+                        <h4>Nicholas Harnik</h4>
+                        <p>Treasurer</p>
+                    </div>
+                </div>
+            </div><!-- /.col-md-3 -->
+            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="1200ms">
+                <div class="team-member">
+                    <img src="/images/team/christian.jpg" class="img-responsive" alt="">
+                    <div class="team-details">
+                        <h4>Christian Votava</h4>
+                        <p>Secretary</p>
+                    </div>
+                </div>
+            </div><!-- /.col-md-3 -->
+            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="1200ms">
+                <div class="team-member">
+                    <img src="/images/team/gerard.jpg" class="img-responsive" alt="">
+                    <div class="team-details">
+                        <h4>Gerard Armand</h4>
+                        <!-- <p>Secretary</p> -->
+                    </div>
+                </div>
+            </div><!-- /.col-md-3 -->
+            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="1200ms">
+                <div class="team-member">
+                    <img src="/images/team/jerome.jpg" class="img-responsive" alt="">
+                    <div class="team-details">
+                        <h4>Jerome Cantor</h4>
+                        <!-- <p>Secretary</p> -->
+                    </div>
+                </div>
+            </div><!-- /.col-md-3 -->
+        </div>
+        <!-- <div class="row">
+            <div class="col-md-12">
+                <p>Not pictured: Gerard Armand & Jerome Cantor</p>                        
+            </div>
+        </div> -->
+    </div>
+</section>
+<!-- End Team Member Section -->
 
