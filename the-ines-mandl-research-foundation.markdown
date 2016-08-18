@@ -1,8 +1,8 @@
 ---
-layout: default
 title: THE INES MANDL RESEARCH FOUNDATION
 date: 2016-08-17 21:29:00 -04:00
 permalink: "/test"
+layout: default
 header: THE INES MANDL RESEARCH FOUNDATION
 subheader: Defining the future of connective<br> tissue disease research
 title1: Exploring the Pathways
