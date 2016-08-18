@@ -1,6 +1,6 @@
 ---
+permalink: "/apply"
 layout: page
-permalink: /apply
 hero-text: Apply
 ---
 

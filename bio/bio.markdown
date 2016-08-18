@@ -1,7 +1,7 @@
 ---
 title: Bio
-permalink: /bio
 date: 2016-08-17 22:00:00 -04:00
+permalink: "/bio"
 layout: page
 title1: Ines Mandl
 ---
