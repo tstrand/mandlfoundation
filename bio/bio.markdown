@@ -2,6 +2,7 @@
 title: Bio
 date: 2016-08-17 22:00:00 -04:00
 permalink: "/bio"
+position: 2
 title1: Ines Mandl
 body1: <p>Ines Mandl ‘47MS CM, is a woman of many distinctions. She was the first
   woman to earn a PhD from then Polytechnic Institute of Brooklyn, in 1949, and enjoyed
