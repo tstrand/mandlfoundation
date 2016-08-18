@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /apply
 hero-text: Apply
 ---
 

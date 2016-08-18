@@ -1,6 +1,9 @@
 ---
+title: Bio
+permalink: /bio
+date: 2016-08-17 22:00:00 -04:00
 layout: page
-hero-text: Bio
+title1: Ines Mandl
 ---
 
 <!-- Start About Section 1 -->
@@ -10,7 +13,7 @@ hero-text: Bio
             <div class="col-md-12">
                 <div class="section-heading-2">
                     <h3 class="about-section-title">
-                        <span>Ines Mandl</span>
+                        <span>{{ page.title1 }}</span>
                     </h3>
                 </div>
             </div>
