@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Ines Mandl Research Foundation
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -8,12 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
-description: |
-  Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-baseurl: ''
-url: http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+email: tylermstrand@gmail.com
+description: The Ines Mandle Research Foundation
+baseurl: 
+url: http://mandlresearch.org/
+twitter_username: _tydalwave_
+github_username: tstrand
 markdown: kramdown
-theme: minima
+theme: 
