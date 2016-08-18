@@ -1,5 +1,7 @@
 ---
-img: /images/team/nick.jpg
+title: Nicky
+img: "/images/team/nick.jpg"
 name: Nicholas Harnik
 role: Treasurer
 ---
+

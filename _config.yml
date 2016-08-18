@@ -2,13 +2,15 @@
 title: Ines Mandl Research Foundation
 timezone: America/New_York
 collections:
+  members:
+    title: Members
+    output: false
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  members:
 email: tylermstrand@gmail.com
 description: The Ines Mandle Research Foundation
 baseurl: 
