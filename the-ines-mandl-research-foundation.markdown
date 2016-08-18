@@ -1,5 +1,5 @@
 ---
-title: THE INES MANDL RESEARCH FOUNDATION
+title: Home
 date: 2016-08-17 21:29:00 -04:00
 permalink: "/test"
 header: THE INES MANDL RESEARCH FOUNDATION
