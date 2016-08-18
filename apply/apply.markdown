@@ -2,9 +2,9 @@
 title: Apply
 permalink: "/apply"
 hero-text: Apply
-body1: We will be accepting applications for the 2017 grant shortly! Check back here
-  for more info in the coming months.</p><p>Please contact NickHarnik@gmail.com with
-  any questions in the meantime.
+body1: "<p>We will be accepting applications for the 2017 grant shortly! Check back
+  here for more info in the coming months.</p><p>Please contact NickHarnik@gmail.com
+  with any questions in the meantime.</p>"
 layout: page
 ---
 
