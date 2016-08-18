@@ -1,7 +1,8 @@
 ---
+title: Apply
 permalink: "/apply"
-layout: page
 hero-text: Apply
+layout: page
 ---
 
 <!-- Start About Us Section -->
