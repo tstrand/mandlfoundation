@@ -8,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  members:
 email: tylermstrand@gmail.com
 description: The Ines Mandle Research Foundation
 baseurl: 

@@ -80,7 +80,6 @@ layout: default
 </div>
 <!-- End Header Section -->
 
-
 <!-- Start About Us Section -->
 <section id="about-section" class="about-section">
     <div class="container">
@@ -126,7 +125,6 @@ layout: default
     </div>
 </section>
     
-    
 <!-- Start Call to Action Section -->
 <section class="call-to-action">
     <div class="container">
@@ -140,9 +138,6 @@ layout: default
 </section>
 <!-- End Call to Action Section -->
     
-    
-    
-    
 <!-- Start Team Member Section -->
 <section id="team-section">
     <div class="container">
@@ -154,67 +149,18 @@ layout: default
             </div>
         </div>
         <div class="row">
+            {% for member in site.members %}
             <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="300ms">
                 <div class="team-member">
-                    <img src="/images/team/ines.jpg" class="img-responsive" alt="">
+                    <img src="{{ member.img }}" class="img-responsive" alt="">
                     <div class="team-details">
-                        <h4>Ines Mandl</h4>
-                        <p>President</p>
+                        <h4>{{ member.name }}</h4>
+                        <p>{{ member.role }}</p>
                     </div>
                 </div>
-            </div><!-- /.col-md-3 -->
-            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="600ms">
-                <div class="team-member">
-                    <img src="/images/team/stephen.jpg" class="img-responsive" alt="">
-                    <div class="team-details">
-                        <h4>Stephen Harnik</h4>
-                        <p>Vice President</p>
-                    </div>
-                </div>
-            </div><!-- /.col-md-3 -->
-            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="900ms">
-                <div class="team-member">
-                    <img src="/images/team/nick.jpg" class="img-responsive" alt="">
-                    <div class="team-details">
-                        <h4>Nicholas Harnik</h4>
-                        <p>Treasurer</p>
-                    </div>
-                </div>
-            </div><!-- /.col-md-3 -->
-            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="1200ms">
-                <div class="team-member">
-                    <img src="/images/team/christian.jpg" class="img-responsive" alt="">
-                    <div class="team-details">
-                        <h4>Christian Votava</h4>
-                        <p>Secretary</p>
-                    </div>
-                </div>
-            </div><!-- /.col-md-3 -->
-            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="1200ms">
-                <div class="team-member">
-                    <img src="/images/team/gerard.jpg" class="img-responsive" alt="">
-                    <div class="team-details">
-                        <h4>Gerard Armand</h4>
-                        <!-- <p>Secretary</p> -->
-                    </div>
-                </div>
-            </div><!-- /.col-md-3 -->
-            <div class="col-md-3 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="1200ms">
-                <div class="team-member">
-                    <img src="/images/team/jerome.jpg" class="img-responsive" alt="">
-                    <div class="team-details">
-                        <h4>Jerome Cantor</h4>
-                        <!-- <p>Secretary</p> -->
-                    </div>
-                </div>
-            </div><!-- /.col-md-3 -->
-        </div>
-        <!-- <div class="row">
-            <div class="col-md-12">
-                <p>Not pictured: Gerard Armand & Jerome Cantor</p>                        
             </div>
-        </div> -->
+            {% endfor %}
+        </div>
     </div>
 </section>
-<!-- End Team Member Section -->
 
