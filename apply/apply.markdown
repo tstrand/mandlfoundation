@@ -2,6 +2,9 @@
 title: Apply
 permalink: "/apply"
 hero-text: Apply
+body1: We will be accepting applications for the 2017 grant shortly! Check back here
+  for more info in the coming months.</p><p>Please contact NickHarnik@gmail.com with
+  any questions in the meantime.
 layout: page
 ---
 
@@ -11,12 +14,11 @@ layout: page
         <div class="row">
             <div class="col-md-9">
                 <div class="about-text">
-                    <p>We will be accepting applications for the 2017 grant shortly! Check back here for more info in the coming months.</p>
-                    <p>Please contact NickHarnik@gmail.com with any questions in the meantime.</p>
+                    <p>{{ body1 }}</p>
                     <!-- <p>We look for qualified applications who are very smart and very qualified when we look at applicants.</p> -->
                 </div>
                 <!-- <div class="download-btn">
-                    <a href="asset/sample.pdf" target="_blank" class="page-scroll btn btn-primary">Download the application</a>
+                    <a href="static/sample.pdf" target="_blank" class="page-scroll btn btn-primary">Download the application</a>
                 </div> -->
             </div>
         </div>
