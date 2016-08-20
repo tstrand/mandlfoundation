@@ -1,8 +1,8 @@
 ---
-layout: index
 title: Home
 date: 2016-08-17 21:29:00 -04:00
 position: 0
+layout: index
 header: THE INES MANDL RESEARCH FOUNDATION
 subheader: Defining the future of connective<br> tissue disease research
 title1: Exploring the Pathways
@@ -66,3 +66,4 @@ body2: 'The Ines Mandl Research Foundation (IMRF) is the legacy of Dr. Ines Mand
   here</a>. The IMRF is co-sponsoring the meeting.</p><p>Please see the “Apply” tab
   at the top of this webpage for information regarding fellowship/grant applications.'
 ---
+

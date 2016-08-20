@@ -1,9 +1,9 @@
 ---
-layout: bio
 title: Bio
 date: 2016-08-17 22:00:00 -04:00
 permalink: "/bio"
 position: 1
+layout: bio
 title1: Ines Mandl
 hero-text: Bio
 body1: <p>Ines Mandl ‘47MS CM, is a woman of many distinctions. She was the first
@@ -24,3 +24,4 @@ body1: <p>Ines Mandl ‘47MS CM, is a woman of many distinctions. She was the fi
   have no known cause. Each disorder has its own symptoms and needs different treatment.</p><p><a
   href="http://engineering.nyu.edu/cable/issue/winter-2012/news/alumni/pioneering-biochemist%E2%80%99s-nyu-poly-fellowships-support-future-scientists">http://engineering.nyu.edu/cable/issue/winter-2012/news/alumni/pioneering-biochemist%E2%80%99s-nyu-poly-fellowships-support-future-scientists</a></p>
 ---
+
