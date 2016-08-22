@@ -2,10 +2,9 @@
 title: Home
 date: 2016-08-17 21:29:00 -04:00
 position: 0
-layout: index
 header: THE INES MANDL RESEARCH FOUNDATION
-subheader: Defining the future of connective<br> tissue disease research
-title1: Exploring the Pathways
+subheader: Exploring the Pathways
+title1: 
 body1: The Board of the Ines Mandl Research Foundation is very sad to announce that
   our President and Founder, Dr. Ines Mandl, passed away peacefully August 5, 2016
   in her 99th year at home. Below is the obituary that ran in the New York Times on
@@ -65,5 +64,6 @@ body2: 'The Ines Mandl Research Foundation (IMRF) is the legacy of Dr. Ines Mand
   For more information about the meeting <a href="static/uterine_fibroids.pdf" target="_blank">click
   here</a>. The IMRF is co-sponsoring the meeting.</p><p>Please see the “Apply” tab
   at the top of this webpage for information regarding fellowship/grant applications.'
+layout: index
 ---
 
