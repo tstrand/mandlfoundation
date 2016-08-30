@@ -3,8 +3,8 @@ title: Home
 date: 2016-08-17 21:29:00 -04:00
 position: 0
 header: THE INES MANDL RESEARCH FOUNDATION
-subheader: Exploring the Pathways
-title1: 
+subheader: Exploring the future of connective tissue disease research
+title1: Exploring the Pathways
 body1: The Board of the Ines Mandl Research Foundation is very sad to announce that
   our President and Founder, Dr. Ines Mandl, passed away peacefully August 5, 2016
   in her 99th year at home. Below is the obituary that ran in the New York Times on
