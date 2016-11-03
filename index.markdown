@@ -1,7 +1,6 @@
 ---
 title: Home
 date: 2016-08-17 21:29:00 -04:00
-published: false
 position: 0
 header: THE INES MANDL RESEARCH FOUNDATION
 subheader: Exploring the future of connective tissue disease research
