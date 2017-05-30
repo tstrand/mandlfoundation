@@ -18,23 +18,23 @@ body2: 'The Ines Mandl Research Foundation (IMRF) is the legacy of Dr. Ines Mand
   diseases, including emphysema and genetic diseases, especially those related to
   elastin and elastase concentrating in the causes as opposed to the cure or treatment
   of the disease.  Research support may also include the fields of immunology and
-  bio-chemistry. The Applicant’s Founder and President, Dr. Ines Mandl, has heretofore
-  made grants in these fields of endeavor annually to such preeminent educational
-  institutions as the American Friends of the Hebrew University, Tandon School of
-  Engineering (previously, NYU Polytechnic) and Columbia University.  Following Dr.
-  Mand''s’ belief that “...biochemistry is the scientific background that helps to
-  produce all medicines,” the Foundation has a sufficiently broad charter to support
-  all research projects that conceivably may find a methodology and cure for the treatment
-  of Connective Tissue Disease.</p><p>On August 8, 2016 the Board granted the application
-  of the The Phyllis and Mark Leppert Foundation for Fertility Research, also known
-  as the Campion Fund, a public charity, to support public awareness and to educate
-  the public, particularly women, about uterine fibroids.  The Applicant is organizing
-  a meeting in Durham, NC entitled: <span style="font-style: italic">Uterine Fibroids:  A
-  Case for Women''s Health: a meeting for the general public to raise awareness of
-  uterine fibroids, a connective tissue disease affecting 70-80% of childbearing women.</span>
-  For more information about the meeting <a href="static/uterine_fibroids.pdf" target="_blank">click
-  here</a>. The IMRF is co-sponsoring the meeting.</p><p>Please see the “Apply” tab
-  at the top of this webpage for information regarding fellowship/grant applications.'
+  bio-chemistry. The IMRF''s Founder, Dr. Ines Mandl, has heretofore made grants in
+  these fields of endeavor annually to such preeminent educational institutions as
+  the American Friends of the Hebrew University, Tandon School of Engineering (previously,
+  NYU Polytechnic) and Columbia University.  Following Dr. Mand''s’ belief that “...biochemistry
+  is the scientific background that helps to produce all medicines,” the Foundation
+  has a sufficiently broad charter to support all research projects that conceivably
+  may find a methodology and cure for the treatment of Connective Tissue Disease.</p><p>On
+  August 8, 2016 the Board granted the application of the The Phyllis and Mark Leppert
+  Foundation for Fertility Research, also known as the Campion Fund, a public charity,
+  to support public awareness and to educate the public, particularly women, about
+  uterine fibroids.  The Applicant is organizing a meeting in Durham, NC entitled:
+  <span style="font-style: italic">Uterine Fibroids:  A Case for Women''s Health:
+  a meeting for the general public to raise awareness of uterine fibroids, a connective
+  tissue disease affecting 70-80% of childbearing women.</span> For more information
+  about the meeting <a href="static/uterine_fibroids.pdf" target="_blank">click here</a>.
+  The IMRF is co-sponsoring the meeting.</p><p>Please see the “Apply” tab at the top
+  of this webpage for information regarding fellowship/grant applications.'
 layout: index
 ---
 
