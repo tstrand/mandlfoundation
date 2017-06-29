@@ -3,7 +3,7 @@ title: Recent News
 date: 2017-06-29 14:57:00 -04:00
 position: 2
 Header: 'Campion Fund: Uterine Fibroids Workshop'
-Body: "The IMRF is pleased to have supported the Campion Fund's workshop,  **Uterine
+body1: "<p>The IMRF is pleased to have supported the Campion Fund's workshop,  **Uterine
   Fibroids: A Case for Women’s Health** held in Durham, North Carolina, on March 11,
   2017. The workshop was a resounding success by all accounts, featuring a number
   of presentations by doctors from Johns Hopkins to Duke to North Caroline Central
@@ -21,7 +21,7 @@ Body: "The IMRF is pleased to have supported the Campion Fund's workshop,  **Ute
   \ Studies estimate that the costs of this disease to the US pubic and health care
   system is up to $34.4 billion yearly.\"\n\nA video of the conference will be posted
   to this website shortly. For more information, please visit the Campion Fund's website:
-  www.campionfund.org\n\n"
+  www.campionfund.org</p>"
 layout: bio
 ---
 
