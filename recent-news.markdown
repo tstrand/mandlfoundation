@@ -2,7 +2,7 @@
 title: Recent News
 date: 2017-06-29 14:57:00 -04:00
 position: 2
-Header: Campion Fund Uterine Fibroids Workshop
+Header: 'Campion Fund: Uterine Fibroids Workshop'
 Body: "The IMRF is pleased to have supported the Campion Fund's workshop,  **Uterine
   Fibroids: A Case for Women’s Health** held in Durham, North Carolina, on March 11,
   2017. The workshop was a resounding success by all accounts, featuring a number
