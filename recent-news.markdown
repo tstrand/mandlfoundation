@@ -22,5 +22,6 @@ Body: "The IMRF is pleased to have supported the Campion Fund's workshop,  **Ute
   system is up to $34.4 billion yearly.\"\n\nA video of the conference will be posted
   to this website shortly. For more information, please visit the Campion Fund's website:
   www.campionfund.org\n\n"
+layout: bio
 ---
 
