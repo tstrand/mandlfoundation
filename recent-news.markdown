@@ -1,6 +1,7 @@
 ---
 title: Recent News
 date: 2017-06-29 14:57:00 -04:00
+permalink: recent-news
 position: 2
 title1: 'Campion Fund: Uterine Fibroids Workshop'
 hero-text: 'Campion Fund: Uterine Fibroids Workshop'
