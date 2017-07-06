@@ -8,12 +8,12 @@ body1: |+
 
   <p><a href="/uploads/Grant%20Application%20of%20Organizations-2469b3.docx" target="_blank">Download application</a></p>
 
-  <p> </p>
-  <p> </p>
-  <p> </p>
+  <p>                 </p>
+  <p>                 </p>
+  <p>                  </p>
 
 
-  <p>Frequently Asked Questions.</p>
+  <p>Frequently Asked Questions</p>
 
   <p>1. Is there a deadline for the application?</p>
   <p>      No. Applications are considered on a rolling basis. </p>
